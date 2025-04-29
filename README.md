@@ -44,9 +44,9 @@ The U.S. sales team at Adidas needed a report to:
 
 *Note: Best viewed on desktop using Microsoft Excel Online.*
 
-## 📷 Dashboard Preview
-![Adidas Sales Dashboard Preview](https://1drv.ms/i/c/cbc72564bad1f538/EcBHzKNQ94pDlO7hUN7oeEkBYAH4d5067imU8VX7pEEuGA?e=cLhU31)
+## 📊 Dashboard Preview
 
+![Adidas Sales Dashboard Preview](images/adidas_dashboard.png)
 
 ## 💰 Want to Learn This?
 Learn how to create professional dashboards like this from scratch.  
