@@ -46,7 +46,7 @@ The U.S. sales team at Adidas needed a report to:
 
 ## 📊 Dashboard Preview
 
-![Adidas Sales Dashboard Preview](images/adidas_dashboard.png)
+![Adidas Sales Dashboard Preview](adidas_dashboard.png)
 
 ## 💰 Want to Learn This?
 Learn how to create professional dashboards like this from scratch.  
