@@ -40,16 +40,13 @@ The U.S. sales team at Adidas needed a report to:
 - Dashboard Design Principles
 
 ## 🖱️ Interact with the Dashboard Online
-👉 [Click here to view and interact with the Adidas Excel Dashboard on OneDrive](#)
+👉 [Click here to view and interact with the Adidas Excel Dashboard on OneDrive](https://1drv.ms/x/c/cbc72564bad1f538/EVNi228AiP5PjD9Ztc2yDMsBd5vlMF-IJSFdqIgO8-Kp3Q?e=hINacG)
 
 *Note: Best viewed on desktop using Microsoft Excel Online.*
 
-## 🎥 Demo
-Watch the dashboard walkthrough:  
-(Insert your video link here, e.g., Loom or YouTube)
-
 ## 📷 Dashboard Preview
-(Insert dashboard screenshots here)
+![Adidas Sales Dashboard Preview](https://1drv.ms/i/c/cbc72564bad1f538/EcBHzKNQ94pDlO7hUN7oeEkBYAH4d5067imU8VX7pEEuGA?e=cLhU31)
+
 
 ## 💰 Want to Learn This?
 Learn how to create professional dashboards like this from scratch.  
