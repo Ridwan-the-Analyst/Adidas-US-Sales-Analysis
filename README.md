@@ -51,4 +51,4 @@ The U.S. sales team at Adidas needed a report to:
 ## 💰 Want to Learn This?
 Learn how to create professional dashboards like this from scratch.  
 Join the course on Excel for Data Analysis at Datasage Academy.  
-👉 [Join our WhatsApp Community](#)
+👉 [Join our WhatsApp Community](https://wa.me/2347066455201)
