@@ -1,6 +1,6 @@
 # 📊 Adidas US Sales Analysis Dashboard (Excel)
 
-![Adidas US Sales Analysis Banner](adidas_banner.png) 
+![Adidas US Sales Analysis Banner](adidas_banner.png)
 
 ## 🧠 Project Overview
 Adidas, a global leader in sportswear, sought to understand its U.S. sales performance to identify high-performing product categories, regional strengths, and sales trends. This Excel dashboard was created to answer critical business questions using clean visualizations and key performance indicators (KPIs).
