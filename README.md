@@ -1,5 +1,6 @@
 # 📊 Adidas US Sales Analysis Dashboard (Excel)
 
+![UK Road Accident Dashboard](https://raw.githubusercontent.com/Ridwan-the-Analyst/UK_Road_Accident_Analysis-/main/Dashboard.png)
 
 ![Adidas Sales Banner](banner.png) 
 
