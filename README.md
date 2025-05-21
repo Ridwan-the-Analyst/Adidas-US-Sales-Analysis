@@ -15,6 +15,15 @@ The U.S. sales team at Adidas needed a report to:
 - Evaluate sales performance by region, state, and city.
 - Compare store-type contributions (In-store, Online, Outlet).
 
+ ## SQL Queris
+ #### 1. View the menu_items table and write a query to find the number of items on the menu
+
+```sql
+SELECT COUNT(*) FROM menu_items;
+
+SELECT COUNT(menu_item_id) FROM menu_items;
+```
+
 ## 📌 Business Questions Answered
 - What is the total revenue, profit, and average revenue per unit?
 - How do sales trend over time (monthly)?
