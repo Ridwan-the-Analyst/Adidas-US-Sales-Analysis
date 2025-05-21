@@ -6,6 +6,18 @@
 ## 🧠 Project Overview
 Adidas, a global leader in sportswear, sought to understand its U.S. sales performance to identify high-performing product categories, regional strengths, and sales trends. This Excel dashboard was created to answer critical business questions using clean visualizations and key performance indicators (KPIs).
 
+## 📌 Query: Top 10 Customers by Total Spend
+
+This SQL query returns the top 10 customers based on their total spending from the `orders` table.
+
+```sql
+-- Get top 10 customers by total spend
+SELECT customer_id, SUM(amount) AS total_spend
+FROM orders
+GROUP BY customer_id
+ORDER BY total_spend DESC
+LIMIT 10;
+
 ## 🎯 Business Problem
 The U.S. sales team at Adidas needed a report to:
 - Measure total revenue, units sold, and profit across multiple dimensions.
