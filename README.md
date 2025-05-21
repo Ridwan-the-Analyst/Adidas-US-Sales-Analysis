@@ -10,7 +10,7 @@ Adidas, a global leader in sportswear, sought to understand its U.S. sales perfo
 
 This SQL query returns the top 10 customers based on their total spending from the `orders` table.
 
-```
+```sql
 -- Get top 10 customers by total spend
 SELECT customer_id, SUM(amount) AS total_spend
 FROM orders
