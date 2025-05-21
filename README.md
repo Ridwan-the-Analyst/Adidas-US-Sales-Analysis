@@ -16,7 +16,7 @@ SELECT customer_id, SUM(amount) AS total_spend
 FROM orders
 GROUP BY customer_id
 ORDER BY total_spend DESC
-LIMIT 10;
+LIMIT 10;  ```
 
 ## 🎯 Business Problem
 The U.S. sales team at Adidas needed a report to:
