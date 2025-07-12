@@ -1,6 +1,6 @@
 # 📊 Adidas US Sales Analysis Dashboard (Excel)
 
-
+**Adidas Sales**
 ![Adidas Sales Banner](banner.png) 
 
 ## 🧠 Project Overview
