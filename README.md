@@ -24,6 +24,7 @@ The U.S. sales team at Adidas needed a report to:
   #### Question 1
   
 **Top 5 Product**
+
 ![To5 5 Products](newplot (10).png)
 
 ## 📈 Key Insights
