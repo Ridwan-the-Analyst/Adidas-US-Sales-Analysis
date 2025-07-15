@@ -1,13 +1,5 @@
 # 📊 Adidas US Sales Analysis Dashboard (Excel)
 
-**Adidas Sales**
-
-- Python
-- SQL
-- PowerBI
-1. Python
-2. SQL
-3. POwerBI
 ![Adidas Sales Banner](banner.png) 
 
 ## 🧠 Project Overview
