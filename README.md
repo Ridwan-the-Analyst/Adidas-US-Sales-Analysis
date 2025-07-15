@@ -27,6 +27,7 @@ The U.S. sales team at Adidas needed a report to:
 
 ![To5 5 Products](plot.png)
 
+
 ## 📈 Key Insights
 - Women's Street Footwear generated the highest revenue ($208M).
 - Men's Street Footwear had the highest unit sales (593K units).
